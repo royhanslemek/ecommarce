@@ -1,0 +1,12 @@
+Name: royhan
+Address: asemkandang
+Phone: 07855455
+Order:
+{
+    "1": {
+        "name": "Kaos Pria",
+        "price": "50000",
+        "quantity": 1
+    }
+}
+
